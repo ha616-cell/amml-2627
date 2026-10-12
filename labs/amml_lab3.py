@@ -15,7 +15,7 @@ Work through the cells below, running each cell in turn. In various places you w
 Where an equation number is referenced, please consult the book "Understanding Deep Learning" (link to digital copy on Canvas).
 """
 
-# Run this if you're in a Colab to install MNIST 1D repository; else use "uv" in your environment instead
+# Run this if you're in a Colab to install MNIST 1D repository; else use uv in your environment instead
 !pip install git+https://github.com/greydanus/mnist1d
 
 import numpy as np
